@@ -1,2 +1,2 @@
-# my-site-project
-A site test for my project that will be published at http://rezaadle.github.io/my-site-project.
+# Movie Trailers Webpage
+A simple webpage test for publishing some movies information and link to thier trailers.
